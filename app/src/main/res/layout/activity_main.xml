@@ -15,7 +15,7 @@
             android:id="@+id/imgv01"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:src="@drawable/bburing"
+            android:src="@drawable/imgv01"
             android:layout_margin="5dp"
             android:scaleType="fitXY"
             android:layout_weight="1"/>
@@ -23,7 +23,7 @@
             android:id="@+id/imgv02"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:src="@drawable/galbi"
+            android:src="@drawable/imgv02"
             android:layout_margin="5dp"
             android:scaleType="fitXY"
             android:layout_weight="1"/>
@@ -31,7 +31,7 @@
             android:id="@+id/imgv03"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:src="@drawable/honey"
+            android:src="@drawable/imgv03"
             android:layout_margin="5dp"
             android:scaleType="fitXY"
             android:layout_weight="1"/>
@@ -44,7 +44,7 @@
             android:id="@+id/imgv04"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:src="@drawable/red"
+            android:src="@drawable/imgv04"
             android:scaleType="fitXY"
             android:layout_margin="5dp"
             android:layout_weight="1"/>
@@ -52,7 +52,7 @@
             android:id="@+id/imgv05"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:src="@drawable/xo"
+            android:src="@drawable/imgv05"
             android:scaleType="fitXY"
             android:layout_margin="5dp"
             android:layout_weight="1"/>
@@ -60,7 +60,7 @@
             android:id="@+id/imgv06"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:src="@drawable/potaking"
+            android:src="@drawable/imgv06"
             android:layout_margin="5dp"
             android:scaleType="fitXY"
             android:layout_weight="1"/>
@@ -73,7 +73,7 @@
             android:id="@+id/imgv07"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:src="@drawable/goldolive"
+            android:src="@drawable/imgv07"
             android:layout_margin="5dp"
             android:scaleType="fitXY"
             android:layout_weight="1"/>
@@ -81,7 +81,7 @@
             android:id="@+id/imgv08"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:src="@drawable/gochuwingbong"
+            android:src="@drawable/imgv08"
             android:layout_margin="5dp"
             android:scaleType="fitXY"
             android:layout_weight="1"/>
@@ -89,7 +89,7 @@
             android:id="@+id/imgv09"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:src="@drawable/supyang"
+            android:src="@drawable/imgv09"
             android:layout_margin="5dp"
             android:scaleType="fitXY"
             android:layout_weight="1"/>
